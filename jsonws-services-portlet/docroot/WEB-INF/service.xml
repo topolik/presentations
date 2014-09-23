@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE service-builder PUBLIC "-//Liferay//DTD Service Builder 6.2.0//EN" "http://www.liferay.com/dtd/liferay-service-builder_6_2_0.dtd">
+
+<service-builder package-path="com.liferay.devlife">
+    <namespace>jsonws</namespace>
+    <entity name="Example1" local-service="false" remote-service="true" />
+    <entity name="Example2" local-service="false" remote-service="true" />
+    <entity name="Example3" local-service="false" remote-service="true" />
+    <entity name="Example4" local-service="false" remote-service="true" />
+</service-builder>
